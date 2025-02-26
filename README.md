@@ -20,7 +20,7 @@ CheckBoost is a task management tool designed to help users organize and track t
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CheckBoost.git
+git clone https://github.com/peregori/CheckBoost.git
 cd CheckBoost
 
 # Install dependencies
@@ -50,7 +50,4 @@ npm start  # or python main.py, etc.
 5. Switch between **Tasks** and **Analytics** for insights.
 
 ## 🤝 Contributing
-This will
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This will probably be open in the future as I do not have plans to further develop it.
